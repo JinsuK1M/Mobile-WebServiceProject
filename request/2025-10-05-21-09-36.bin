@@ -1,0 +1,14 @@
+GET / HTTP/1.1
+Host: 127.0.0.1:8000
+Sec-Fetch-Dest: document
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Accept-Language: ko-KR,ko;q=0.9
+Priority: u=0, i
+Accept-Encoding: gzip, deflate
+Cookie: csrftoken=SW07mfHuWqKBbwOPy87nnyDHywmhWVTE
+Connection: keep-alive
+
